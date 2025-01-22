@@ -2,7 +2,7 @@
 
 ## 1. Interpreta el significado del diagrama de clases.
 
-AQUI PONER LA FOTO
+![Descripción del diagrama](assets/diagrama-de-clase.png)
 
 ### a) Relación entre las clases. Significado, tipo, multiplicidad.
 
@@ -76,7 +76,9 @@ El método `inscribirse(Curso curso)` pertenece a la clase `Estudiante`. Su prop
 ## 2. Generación de código a partir del diagrama.
 
 ### a) Crear clases.
-
 ### b) Crear relaciones.
-
 ### c) Crear `main` (para probar el sistema).
+
+(ver /src)
+
+
